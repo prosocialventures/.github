@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-We're doing business in a different way, serving not just shareholders, but all of our stakeholders:
-our employees, our customers, our communities, and our planet.
+Snowpack is building a personal finance ecosystem that puts your ownership and control of financial data at the core of everything we do. We're so committed to [this principle](https://snowpack.money/data-stewardship) that we incorporated as a Public Benefit Corporation and put it directly in our articles of incorporation.
 
-To learn with us as we incubate our first products and discover the most effective ways to deliver on the
-[triple bottom line](https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line), connect with us on
-[Twitter](https://twitter.com/prosocialgroup) or sign up for our [newsletter](https://prosocial.ventures/).
+We're starting by building a personal financial data warehouse that you own and control, containing transaction data across all your checking, credit card, and investment accounts. How this data is used and shared with apps is fully under your control.
 
-We might not have a lot of public repos just yet, mostly incubating new products in private at this point,
-but looking forward to contributing back to open source soon!
+Our first application is an envelope budgeting app that helps you manage your monthly budget in an easy, intuitive way.
+
+Check out more [details on our website](https://snowpack.money) and [sign up for the waitlist](https://snowpack.money/early-access) or [newsletter](https://snowpack.money/newsletter), or [follow us on Twitter](https://twitter.com/snowpackmoney).
+
